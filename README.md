@@ -1,10 +1,10 @@
 <div align='center'>
   <h1>SOL ROULETTE</h1>
   <h3>A SIMPLE ROULETTE GAME BASED ON SOLANA</h3>
+  <img src='https://github.com/user-attachments/assets/65dc3b5a-5d7e-4a7b-aabf-c11f164bbdd4'/>
 </div>
 
 ---
-
 
 ## Table of Contents : 
 - [Description](https://github.com/PratyushMT/roulette-game#description)
